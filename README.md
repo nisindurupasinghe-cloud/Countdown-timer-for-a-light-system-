@@ -2,7 +2,7 @@
 # 10-Second Countdown Traffic Light Controller
 
 A digital logic design and simulation of a 10-second countdown traffic light controller system built using **Logisim**. The system counts down from 9 to 0 upon a switch trigger and controls a Red-Amber-Green (RAG) light system based on specific time intervals, displaying the countdown on a 7-segment display.
-
+    
 ---
 
 ## 📋 Project Specifications & Logic    
