@@ -7,7 +7,7 @@ A digital logic design and simulation of a 10-second countdown traffic light con
 
 ## 📋 Project Specifications & Logic  
 
-The system operates based on a 1Hz clock signal and executes the following state transitions:
+The system operates based on a 1Hz clock signal and executes the following state transitions:  
 
 1. **Idle State:** The system waits for an input button/switch to be pressed.
 2. **Start Sequence:** Once pressed, the countdown begins from **9 down to 0**.
